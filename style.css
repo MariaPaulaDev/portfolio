@@ -21,6 +21,7 @@ body,html {
     background-image: linear-gradient(to bottom left, #2a3340 5%, #5f6d73, #b4b4aa);
     background-attachment: fixed;
     background-size: cover;
+    overflow-x: hidden;
     
 }
 
